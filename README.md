@@ -1,0 +1,20 @@
+---
+title: "R graphics 강의록"
+author: "문건웅(cardiomoon@gmail.com)"
+date: 2018-Dec-26
+output: html_document
+---
+
+# R Graphics 강의록
+
+## 필요한 패키지 설치
+
+
+```r
+install.packages(c("ggplot2","car","gcookbook","lattice"))
+```
+
+## 강의록
+
+1. R강의4.html : R graphic using base R
+2. R graphics with ggplot2.pdf : R graphics with ggplot2
