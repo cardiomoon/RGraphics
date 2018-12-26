@@ -7,6 +7,10 @@ output: html_document
 
 # R Graphics 강의록
 
+## 강의록 다운로드
+
+https://github.com/cardiomoon/RGraphics
+
 ## 필요한 패키지 설치
 
 ```{r,eval=FALSE}
